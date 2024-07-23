@@ -1,0 +1,14 @@
+.menu {
+  color: #FFFFFF;
+  font-size: 20px;
+}
+
+.drawer {
+  background-color: #001529 !important;
+}
+
+.ant-drawer-close {
+  margin-left: auto;
+  margin-inline-end: 0 !important;
+  color: #FFFFFF !important;
+}

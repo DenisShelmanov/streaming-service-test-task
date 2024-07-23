@@ -1,0 +1,18 @@
+.hero-section-content {
+  gap: 60px;
+}
+
+.hero-section-content-mobile {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  padding-top: 30px;
+  margin-right: auto;
+}
+
+.mobile-button {
+  padding-top: 20px;
+  margin: auto;
+}
