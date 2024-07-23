@@ -1,0 +1,15 @@
+.hero-banner {
+  background-image: linear-gradient(to bottom, #0a0c2c80 3rem, transparent 30rem), url('../../../../../public/images/landscape-banner.jpg');
+  background-position: center, bottom left;
+  background-size: cover, cover;
+  height: 60vw;
+  max-height: 100vh;
+}
+
+.big-hero-banner {
+  padding: 25% 40% 6% 6%;
+}
+
+.small-hero-banner {
+  padding: 10%;
+}

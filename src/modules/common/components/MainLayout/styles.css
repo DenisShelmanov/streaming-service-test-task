@@ -1,0 +1,25 @@
+.layout {
+  min-height: 100vh;
+}
+
+.sider {
+  height: 100vh;
+  position: fixed !important;
+  display: flex !important;
+  width: 100%;
+  padding-top: 80px;
+  z-index: 10;
+}
+
+.content-layout {
+  margin-left: 80px;
+  z-index: 1;
+}
+
+.ant-layout-sider-children {
+  width: 100%;
+}
+
+.mobile-content-layout {
+  z-index: 1;
+}

@@ -1,0 +1,19 @@
+.movie-list-wrapper{
+  margin: 50px 0px;
+}
+
+.slick-arrow {
+  color: #000000 !important;
+}
+
+.carousel-item {
+  width: fit-content !important;
+}
+
+.ant-carousel .slick-slide {
+  text-align: center;
+}
+
+.slick-list {
+  padding: 40px 0px !important;
+}
